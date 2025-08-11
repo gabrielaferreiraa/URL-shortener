@@ -1,0 +1,4 @@
+flask==2.3.3          # Framework web
+flask-cors==4.0.0     # Permite frontend conversar com backend
+flask-sqlalchemy==3.0.5  # Facilita trabalhar com banco de dados
+validators==0.22.0    # Valida se URL está correta
